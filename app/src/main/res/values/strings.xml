@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordStrengInClass</string>
+    <string name="weak">WEAK!!</string>
+    <string name="medium">Medium!!</string>
+    <string name="Strong">Strong!!</string>
+    <string name="Very_strong">Very Strong!!</string>
+</resources>

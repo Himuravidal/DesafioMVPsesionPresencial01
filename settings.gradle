@@ -1,0 +1,2 @@
+rootProject.name='PasswordStrengInClass'
+include ':app'
